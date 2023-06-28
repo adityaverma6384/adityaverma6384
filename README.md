@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, Welcome to my Profile! 👋
+
+# I am Aditya verma, a Full Stack Developer and a Master's student at Hochschule Schmalkalden, German
 
 <!--
 **adityaverma6384/adityaverma6384** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
