@@ -10,9 +10,6 @@
 
 
  ### 🔧 Languages and Frameworks:
-<code><img width="40px" src="https://img.icons8.com/color/3x/c-programming.png" title="C"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/4x/c-plus-plus-logo.png" title="C++"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/4x/000000/python.png" title="Python"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/4x/000000/java.png" title ="Java"/></code>
 <code><img width="40px" src="https://img.icons8.com/plasticine/100/000000/react.png" title="React"/></code>
 <code><img width="40px" src="https://img.icons8.com/ios/4x/00758f/mysql-logo.png" title="MySQL"/></code>
@@ -25,12 +22,11 @@
 <code><img width="40px" src="https://img.icons8.com/color/48/000000/javascript.png" title="Javascript"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/8x/000000/mongodb.png" title="MongoDB"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/8x/000000/nodejs.png" title="Nodejs"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/8x/000000/tensorflow.png" title="Tensorflow"/></code>
 
 ### 🌐 Connect with me 
-<code><a href="https://www.linkedin.com/in/kshitijanand36/"><img width="40px" src="https://img.icons8.com/color/8x/000000/linkedin.png" title="Linkedin"/></a></code>
-<code><a href="https://www.facebook.com/kshitij.anand.750"><img width="40px" src="https://img.icons8.com/color/8x/000000/facebook.png" title="Facebook"/></a></code>
-<code><a href="mailto:kshitijanand2@gmail.com"><img width="40px" src="https://img.icons8.com/fluent/48/000000/gmail.png" title="Gmail"/></a></code>
+<code><a href="https://www.linkedin.com/in/aditya-verma-4a31a725b/"><img width="40px" src="https://img.icons8.com/color/8x/000000/linkedin.png" title="Linkedin"/></a></code>
+<code><a href="[https://www.facebook.com/kshitij.anand.750](https://www.facebook.com/aditya.verma.963434)"><img width="40px" src="https://img.icons8.com/color/8x/000000/facebook.png" title="Facebook"/></a></code>
+<code><a href="mailto:adityaverma6384@gmail.com"><img width="40px" src="https://img.icons8.com/fluent/48/000000/gmail.png" title="Gmail"/></a></code>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kshitijanand36&theme=blue-green&layout=compact&count_private=true&show_icons=true&include_all_commits=true")](https://github.com/kshitijanand36/github-readme-stats)
 
