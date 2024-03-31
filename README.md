@@ -2,7 +2,7 @@
 
 ### I am Aditya verma, a Full Stack Developer and a Master's student at Hochschule Schmalkalden, Germany
 
-- 🔭 worked as a frontend developer at magrent enterprises llp
+- 🔭 worked as a frontend developer at magrent enterprises llp.
 - 🔭 Worked as web intern at HUDCO and BMTPC
 - 😄 My areas of interest are  Web development, HTML, CSS, React Framework, and JavaScript.
 - 📫 How to reach me **adityaverma6384gmail.com**
