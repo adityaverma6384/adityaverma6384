@@ -1,6 +1,6 @@
 ## Hi there, Welcome to my Profile! 👋
 
-### I am Aditya verma, a Full Stack Developer and a Master's student at Hochschule Schmalkalden, Germany
+### I am Aditya verma, a Full Stack Developer and a Master's student at Hochschule Schmalkalden, Germany.
 
 - 🔭 worked as a frontend developer at magrent enterprises llp.
 - 🔭 Worked as web intern at HUDCO and BMTPC
