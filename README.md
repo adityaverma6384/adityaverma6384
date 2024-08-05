@@ -10,7 +10,7 @@
 
 
  ### 🔧 Languages and Frameworks:
-<code><img width="40px" src="https://img.icons8.com/color/4x/000000/java.png" title ="Java"/></code>
+<code><img width="40px" src="[https://img.icons8.com/color/4x/000000/java.png](https://1000logos.net/wp-content/uploads/2022/12/Power-BI-Logo-2013.png)" title ="Power BI"/></code>
 <code><img width="40px" src="https://img.icons8.com/plasticine/100/000000/react.png" title="React"/></code>
 <code><img width="40px" src="https://img.icons8.com/ios/4x/00758f/mysql-logo.png" title="MySQL"/></code>
 <code><img width="40px" src="https://img.icons8.com/dusk/64/000000/database-restore.png" title="Database"/></code>
