@@ -1,6 +1,6 @@
-## Hi there, Welcome to my Profile! 👋
+### Hi there, Welcome to my Profile! 👋
 
-### I am Aditya verma, Results-driven Data Analyst and a Master's student at Hochschule Schmalkalden, Germany with experience in database management, statistical analysis, and data visualization. Skilled in SQL, Python, Power BI, and Excel, with a track record of driving data-driven solutions to improve business outcomes. Proven ability to lead projects, optimize data processes, and deliver actionable insights. Committed to continuous learning and staying updated with the latest industry trends.
+## I am Aditya verma, Results-driven Data Analyst and a Master's student at Hochschule Schmalkalden, Germany with experience in database management, statistical analysis, and data visualization. Skilled in SQL, Python, Power BI, and Excel, with a track record of driving data-driven solutions to improve business outcomes. Proven ability to lead projects, optimize data processes, and deliver actionable insights. Committed to continuous learning and staying updated with the latest industry trends.
 
 - 🔭 worked as a junior analyst at Magrent enterprises llp.
 - 🔭 Worked as Summer intern at HUDCO and BMTPC.
